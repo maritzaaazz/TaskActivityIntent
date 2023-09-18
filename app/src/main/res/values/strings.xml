@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskActivityIntent</string>
+    <string name="checkbox">By checking the box you agree to our </string>
+    <string name="already">Already Have an Account?</string>
+</resources>
